@@ -1,0 +1,2 @@
+# PronicNumber
+ finding pronic number
